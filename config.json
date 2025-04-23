@@ -13,7 +13,7 @@
         "app_id": "VO45TFULKU",
         "api_key_search_only": "78f74a09bfd114b302c64a5651230a7d",
         "index_name": "my_games",
-        "hits_per_page": 30,
+        "hits_per_page": 20,
         "sort_by": "desc(numrated)"
     }
 }
